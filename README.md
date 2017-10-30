@@ -21,4 +21,8 @@ composer install
 
 - Install database/database_install.sql
 
-- Run the project, and visit /images
+- Run the project
+ ```
+ bin/cake server
+ ```
+ - Visit /images
