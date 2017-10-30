@@ -6,6 +6,9 @@
 /logs/*
 /tmp/*
 /vendor/*
+.idea
+.github
+/webroot/img/images/*
 
 # OS generated files #
 ######################
